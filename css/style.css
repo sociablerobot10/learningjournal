@@ -37,7 +37,7 @@ header {
 .hero {
   grid-area: hero;
 
-  background: url(/cocb84ffa9583fe1d47bb029f/images/article-image-hero.png)
+  background: url(/images/article-image-hero.png)
     no-repeat;
   color: white;
   height: 18.8125rem;
@@ -345,7 +345,7 @@ footer {
   .hero {
     grid-area: hero;
 
-    background: url(/cocb84ffa9583fe1d47bb029f/images/desktop-blog-image-hero.png)
+    background: url(/images/desktop-blog-image-hero.png)
       no-repeat;
 
     background-size: cover;
